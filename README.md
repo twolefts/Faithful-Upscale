@@ -61,8 +61,8 @@ Full credit goes to the original author, Ellea (TWoW forum).
 
 Please note that these images are compressed - textures will look better in-game.
 
-![armor-upscale-comparison](Comparison\armor-upscale-comparison.png)
-![mount-upscale-comparison.png](Comparison\mount-upscale-comparison.png)
-![patch-o-p-performance-version](Comparison\patch-o-p-performance-version.png)
+![armor-upscale-comparison](Comparison/armor-upscale-comparison.png)
+![mount-upscale-comparison.png](Comparison/mount-upscale-comparison.png)
+![patch-o-p-performance-version](Comparison/patch-o-p-performance-version.png)
 
 Hosting the files from [Discord](https://discord.com/channels/1499908924906672188/1517611823585820945) only.
